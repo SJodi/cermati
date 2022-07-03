@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e9e1ed8-a185-42d4-95c3-491c825c2fa5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fLZkkINy3eSLvRzmjCwxRb5hyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jodi/Downloads/Jodi/cermati&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/Test/Utils" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features/" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/SignIn" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Test.Steps" />
+      <recent name="Test.Tests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify -Dtags=&quot;@TestCase01&quot;" />
+      <command value="mvn clean verify -Dtags=&quot;@singIn&quot;" />
+      <command value="mvn clean verify -Dtags=@TestCase05" />
+      <command value="mvn clean verify -Dtags=@TestCase06" />
+      <command value="mvn clean verify -Dtags=@TestCase001" />
+      <command value="mvn clean verify -Dtags=@TestCase002" />
+      <command value="mvn clean verify -Dtags=@postProduct" />
+      <command value="mvn clean verify" />
+      <command value="mvn clean verify -Dtags=@TestCase01" />
+      <command value="mvn clean verify -Dtags=@TestCase02" />
+      <command value="mvn clean verify -Dtags=@TestCase04" />
+      <command value="mvn clean verify -Dtags=@signUp" />
+      <command value="mvn clean verify -Dtags=@TestCase03" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: 04 - Success sing up with valid input">
+    <configuration name="Scenario: 02 - Failed sing up with empty input" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignUp/signUp.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors Test.Tests.SignUp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BaseWebCucumber" />
+      <option name="NAME_FILTER" value="^02 \- Failed sing up with empty input$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^02 \- Failed sing up with empty input$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 02 - Failed sing up with empty input" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 03 - Failed sing up with invalid input" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignUp/signUp.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors Test.Tests.SignUp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BaseWebCucumber" />
+      <option name="NAME_FILTER" value="^03 \- Failed sing up with invalid input$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^03 \- Failed sing up with invalid input$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 03 - Failed sing up with invalid input" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 04 - Success sing up with valid input" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignUp/signUp.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors Test.Tests.SignUp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BaseWebCucumber" />
+      <option name="NAME_FILTER" value="^04 \- Success sing up with valid input$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^04 \- Success sing up with valid input$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 04 - Success sing up with valid input" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 04- User can access sing up page from main page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignUp/signUp.feature" />
+      <option name="GLUE" value="Test.Tests.SingIn net.serenitybdd.cucumber.actors Test.Tests.SignUp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BaseWebCucumber" />
+      <option name="NAME_FILTER" value="^04\- User can access sing up page from main page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^04\- User can access sing up page from main page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 04- User can access sing up page from main page" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 04- User can go to sign up  page from navbar (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SignUp/signUp.feature" />
+      <option name="GLUE" value="Test.Tests.SingIn net.serenitybdd.cucumber.actors Test.Tests.SignUp" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="BaseWebCucumber" />
+      <option name="NAME_FILTER" value="^04\- User can go to sign up  page from navbar$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^04\- User can go to sign up  page from navbar$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 04- User can go to sign up  page from navbar" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: 04 - Success sing up with valid input" />
+        <item itemvalue="Cucumber Java.Scenario: 03 - Failed sing up with invalid input" />
+        <item itemvalue="Cucumber Java.Scenario: 02 - Failed sing up with empty input" />
+        <item itemvalue="Cucumber Java.Scenario: 04- User can access sing up page from main page" />
+        <item itemvalue="Cucumber Java.Scenario: 04- User can go to sign up  page from navbar (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e9e1ed8-a185-42d4-95c3-491c825c2fa5" name="Default Changelist" comment="" />
+      <created>1595999478542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595999478542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
