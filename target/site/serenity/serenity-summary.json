@@ -1,0 +1,99 @@
+{
+  "report": {
+    "title": "Serenity Summary Report",
+    "tagCategoryTitle": "Category",
+    "version": "",
+    "date": "2022-07-03T11:24:30.280"
+  },
+  "results": {
+    "counts": {
+      "total": 1,
+      "success": 1,
+      "pending": 0,
+      "ignored": 0,
+      "skipped": 0,
+      "failure": 0,
+      "error": 0,
+      "compromised": 0
+    },
+    "percentages": {
+      "success": 100,
+      "pending": 0,
+      "ignored": 0,
+      "skipped": 0,
+      "failure": 0,
+      "error": 0,
+      "compromised": 0
+    },
+    "totalTestDuration": "41s",
+    "totalClockDuration": "41ms",
+    "minTestDuration": "41s",
+    "maxTestDuration": "41s",
+    "averageTestDuration": "41s"
+  },
+  "resultsByFeature": [
+    {
+      "featureName": "Sign Up",
+      "scenarios": [
+        {
+          "title": "03 - Failed sing up with invalid input",
+          "result": "success",
+          "outcomes": []
+        }
+      ]
+    }
+  ],
+  "frequentFailures": [
+  ],
+  "unstableFeatures": [
+  ],
+  "coverage": [
+    {
+      "tagTitle": "Feature",
+      "tagCoverages": [
+        {
+          "tagName": "Sign Up",
+          "testCount": 1,
+          "successRate": "100%",
+          "counts": {
+            "total": 1,
+            "success": 1,
+            "pending": 0,
+            "ignored": 0,
+            "skipped": 0,
+            "failure": 0,
+            "error": 0,
+            "compromised": 0
+          },
+          "percentages": {
+            "success": 100,
+            "pending": 0,
+            "ignored": 0,
+            "skipped": 0,
+            "failure": 0,
+            "error": 0,
+            "compromised": 0
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "tagType": "",
+      "tagResults": [
+        {
+          "tagName": "TestCase03",
+          "count": 1
+        },
+        {
+          "tagName": "signUp",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
+
+
+
